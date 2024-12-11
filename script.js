@@ -1,4 +1,4 @@
-var images = ['https://cdn-ikpiled.nitrocdn.com/LAxnKcNMkwminPLTYfhzQxqaoZPWeBJQ/assets/images/optimized/rev-0196773/filmschoolrejects.com/wp-content/uploads/2021/02/Tom-Jerry-Best-Cartoons-HBO-Max.jpg','https://rukminim2.flixcart.com/image/850/1000/k6wiefk0/poster/c/c/a/extra-large-doraemon-cartoon-painting-poster-waterproof-canvas-original-imafp9fjpcjdbnfb.jpeg?q=90&crop=false','https://miro.medium.com/v2/resize:fit:1200/1*7uQ3LDJNricXFpHk-lKgeQ.jpeg'];
+var images = ['https://static.wikia.nocookie.net/cartoonnetwork/images/b/b5/Tom-and-jerry-1-.jpg/revision/latest/thumbnail/width/360/height/450?cb=20110312161830'];
 
 var currentIndex = 0;
 var totalClicks = 0;
